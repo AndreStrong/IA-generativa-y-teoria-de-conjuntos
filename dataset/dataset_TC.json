@@ -1,0 +1,18 @@
+[
+    {
+        "consulta" : "Defina un conjunto.",
+        "categoria" : "",
+        "respuesta" : "Un conjunto es una colección de objetos bien definidos. Los objetos de un conjunto se llaman elementos del conjunto.       Por ejemplo, el conjunto de los números naturales es un conjunto que contiene los números 1, 2, 3, ... El conjunto de las letras del alfabeto español es un conjunto que contiene las letras a, b, c, ... El conjunto de las personas que viven en México es un conjunto que contiene a todas las personas que residen en México.                Los conjuntos se pueden representar de diferentes maneras. Una forma común de representar un conjunto es mediante una lista de sus elementos. Por ejemplo, el conjunto de los números naturales se puede representar como {1, 2, 3, ...}.                Otra forma de representar un conjunto es mediante una descripción de sus elementos. Por ejemplo, el conjunto de las letras del alfabeto español se puede representar como el conjunto de todos los símbolos que están en el rango ASCII del 32 al 126.                Los conjuntos son una herramienta fundamental en matemáticas. Se utilizan en muchas áreas de la matemática, incluyendo la teoría de números, el álgebra, la geometría, el análisis y la probabilidad.",
+        "solucion" : "Un conjunto es una coleccion de objetos o elementos. Un elemento puede pertener o no a un conjunto. Un conjunto puede tener uno o mas elementos",
+        "Calificacion" : 1,
+        "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
+    },
+    {
+        "consulta" : "¿Cuál es la notación de conjuntos?",
+        "categoria" : "",
+        "respuesta" : "La notación de conjuntos es una forma de representar conjuntos mediante símbolos matemáticos. Los conjuntos se representan por letras mayúsculas, y los elementos de un conjunto se representan por letras minúsculas.        Hay dos formas principales de representar conjuntos mediante la notación de conjuntos:                * **Notación por extensión:** En esta notación, se enumeran todos los elementos del conjunto entre llaves.        * **Notación por comprensión:** En esta notación, se especifica una condición que deben cumplir los elementos del conjunto.",
+        "solucion" : "Un conjunto se representa con una letra mayuscula, sus elementos con letras minusculas o numeros (segun sea el caso). Entonces se dice que un conjunto A es igual a todos sus elementos {x|x es par}",
+        "Calificacion" : 1,
+        "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
+    },
+]
