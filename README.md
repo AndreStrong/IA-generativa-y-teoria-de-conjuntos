@@ -16,7 +16,10 @@ Dentro de la estrucutra de la dataset:
 3. respuesta: 
 4. solucion: 
 5. Calificacion: 
-    a. 0: Representa una calificacion reprobatoria. Ya sea en el desarrollo o en el resultado existe un error.
-    b. 1: Representa una calificacion aprobatoria. Es decir, tanto el desarrollo como el resultado son correctos.
+    0: Representa una calificacion reprobatoria. Ya sea en el desarrollo o en el resultado existe un error.
+    1: Representa una calificacion aprobatoria. Es decir, tanto el desarrollo como el resultado son correctos.
 6. Referencia: 
+
+Lista de simbolos:
+
 

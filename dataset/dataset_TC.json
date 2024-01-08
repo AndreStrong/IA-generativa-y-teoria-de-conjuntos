@@ -56,26 +56,26 @@
         "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
     },
     {
-        "consulta" : "",
-        "categoria" : "",
-        "respuesta" : "",
-        "solucion" : "",
+        "consulta" : "Defina X ⊆ Y, donde X y Y son conjuntos.",
+        "categoria" : "a",
+        "respuesta" : "X ⊆ Y significa que X está contenido en Y. En otras palabras, cada elemento de X es también un elemento de Y. En resumen, X ⊆ Y significa que X es un subconjunto de Y.",
+        "solucion" : "X es subconjunto de Y significa que para todo elemento x ∈ X implica que x ∈ Y. Por lo anterior si hay al menos un elemento x ∈ X tal que x ∉  Y entonces X no es subconjunto de Y",
         "Calificacion" : 1,
         "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
     },
     {
-        "consulta" : "",
-        "categoria" : "",
-        "respuesta" : "",
-        "solucion" : "",
+        "consulta" : "Defina X es un subconjunto propio de Y.",
+        "categoria" : "a",
+        "respuesta" : "X es un subconjunto propio de Y si X está contenido en Y, pero X no es igual a Y. En otras palabras, X ⊆ Y, pero X ≠ Y. En resumen, X es un subconjunto propio de Y si X contiene todos los elementos de Y, pero también contiene elementos que no son elementos de Y. Por ejemplo, el conjunto de los números pares es un subconjunto propio del conjunto de los números naturales. Todos los números pares son números naturales, pero hay números naturales que no son pares, como 1, 3, 5, etc.",
+        "solucion" : "X es subconjunto de Y y Y no es subconjunto de Y. Es decir X diferente de Y",
         "Calificacion" : 1,
         "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
     },
     {
-        "consulta" : "",
-        "categoria" : "",
-        "respuesta" : "",
-        "solucion" : "",
+        "consulta" : "¿Cuál es el conjunto potencia de X? ¿Cómo se denota?",
+        "categoria" : "a",
+        "respuesta" : "El conjunto potencia de X es el conjunto de todos los subconjuntos de X. Se denota con P(X), o también con 2^X. En resumen, el conjunto potencia de X es el conjunto de todos los conjuntos que se pueden formar con los elementos de X. Por ejemplo, el conjunto potencia del conjunto {1,2,3} es el conjunto {{}, {1}, {2}, {3}, {1,2}, {2,3}, {1,3}, {1,2,3}}.",
+        "solucion" : "El conjunto potencia de X se denota como 2^X. Se trata del conjunto que tiene como elementos a todos los subconjuntos de X. Otra manera de denotarlo es por P(X). Donde tambien vacio es subconjunto de cualquier conjunto arbitrario X (demostrable) asi como X es subconjunto de si mismo (X = X)",
         "Calificacion" : 1,
         "Referencia" : "Johnsonbaugh, R. (2005). Matemáticas discretas. Pearson Educación."
     },
